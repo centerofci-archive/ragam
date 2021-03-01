@@ -32,8 +32,8 @@ Place your .txt IAST files in the raw_iast. Run the script. The output .tex file
     pādaja viśva vilāsini pan̄ca nadī-īśa-ullāsini 
     vēda śāstra viśvāsini vidhi hari hara prakāśini
 
-  `$ python main.py
-   Saving latex version of dharmaSamvardhani`
+  ```$ python main.py
+   Saving latex version of dharmaSamvardhani```
 
 `$ cat iast_latex/dharmaSamvardhani.tex`
 
